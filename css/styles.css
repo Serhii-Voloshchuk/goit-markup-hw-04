@@ -314,10 +314,12 @@ section:nth-child(3){
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
+/* text-align: center; */
 }
 
-
+.qualities-description-team{
+  text-align: center;
+}
 
 .bottom-section{
   padding-top: 120px;
